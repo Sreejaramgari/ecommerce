@@ -407,53 +407,6 @@ Through this project, I gained practical experience in:
 * Frontend-backend communication
 * Full-stack application architecture
 * Git and GitHub
-
----
-
-## 📸 Screenshots
-
-Add screenshots of your application here.
-
-### 🏠 Home Page
-
-*Add your homepage screenshot here.*
-
-### 🛍️ Product Listing
-
-*Add your product listing screenshot here.*
-
-### 🔍 Product Search & Filtering
-
-*Add your search/filter screenshot here.*
-
-### 🛒 Shopping Cart
-
-*Add your cart screenshot here.*
-
-### 💳 Payment
-
-*Add your Razorpay/payment screenshot here.*
-
-### 👨‍💼 Admin Dashboard
-
-*Add your admin panel screenshot here.*
-
----
-
-## 🔮 Future Enhancements
-
-Possible future improvements include:
-
-* ❤️ Wishlist functionality
-* ⭐ Product reviews and ratings
-* 📧 Email notifications
-* 📊 Advanced admin dashboard
-* 📈 Sales analytics
-* 🎟️ Coupon and discount management
-* 🚚 Order tracking
-* 📱 Improved mobile responsiveness
-* 🔔 Real-time notifications
-
 **GitHub:**
 https://github.com/Sreejaramgari
 
